@@ -21,7 +21,7 @@ A aplicação consiste em exibir um dashboard implementado em ReactJS a partir d
 
 # Tecnologias utilizadas
 ## Back-end
-- Java
+- Java 11
 - Spring Boot
 - JPA / Hibernate
 - Maven
