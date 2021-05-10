@@ -23,7 +23,7 @@ A aplicação consiste em exibir um dashboard implementado em ReactJS a partir d
 ## Back-end
 - Java 11
 - Spring Boot
-- JPA / Hibernate
+- Spring Data JPA 
 - Maven
 - H2 Database
 ## Front-end
@@ -45,7 +45,7 @@ Pré-requisitos: Java 11
 # clonar repositório
 git clone https://github.com/valsonpereira/projeto-sds3.git
 
-# entrar na pasta do projeto back end
+# entrar na pasta do projeto back-end
 cd backend
 
 # executar o projeto
@@ -59,7 +59,7 @@ Pré-requisitos: npm / yarn
 # clonar repositório
 git clone https://github.com/valsonpereira/projeto-sds3.git
 
-# entrar na pasta do projeto frontend
+# entrar na pasta do projeto front-end
 cd frontend
 
 # instalar dependências
@@ -71,6 +71,6 @@ yarn start
 
 # Autor
 
-Valson da Silva Pereira
+Valson Pereira
 
 https://www.linkedin.com/in/valson-java-developer
