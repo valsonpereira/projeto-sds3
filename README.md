@@ -3,7 +3,8 @@
 
 # Sobre o projeto
 
-https://valsonpereira-dsvendas.netlify.app/
+Link da Aplicação em produção: https://valsonpereira-dsvendas.netlify.app/
+Obs.: Em razão do deploy do back-end ser realizado utilizando o plano gratuito do Heroku, o dashboard pode levar um certo tempo para exibir os dados.
 
 DSVendas é uma aplicação full stack web com API REST Spring Boot e React desenvolvida durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
